@@ -1,0 +1,6 @@
+export const PRIMARY_COLOR = '#4A91FB'
+export const LIGHT_WHITE = '#F1F6FC'
+export const LIGHT_DARK = '#504e70'
+export const SUCCESS_COLOR = '#1ecab8'
+export const DANGER_COLOR = '#f1646c'
+export const WHITE_COLOR = '#ffffff'
